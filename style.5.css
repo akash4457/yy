@@ -1,0 +1,30 @@
+body{
+	background-color: greenyellow;
+}
+h1{
+	color: red;
+}
+
+	
+
+h1{
+	color: blue;
+	text-align: center;
+}
+img{
+	display: block;
+	margin: auto;
+	width: 50%;
+	height: auto;
+	border: 5px solid orange;
+	border-radius: 8px;
+	opacity: 0.8;
+
+}
+img{
+	margin-center:40px ;
+
+}
+p{
+	text-align: center;
+}
